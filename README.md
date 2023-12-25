@@ -3,10 +3,10 @@
 
 OCR App made using MERN tech stack which allows user to give image as input and do OCR recogination on the image and save in information in database.Many CRUD operation are also their such as Search By Name, Update By Identification ID, Delete by Identification ID.
 
-I was successfully able to deploy the frontend part but was not able to deploy the backend of this project.But I am attaching a video link of project working.
+I was successfully able to deploy the frontend part but was not able to host this project.But I am attaching a video link of project working.
 
-Check out our Frontend part at [ORC-Frontend ]()
-Video of live demo on project when not hosted:[Live-Demo]()
+
+Video of live demo on project when not hosted:[Live-Demo](https://drive.google.com/file/d/1tJrUQn7ahVxn58-qYjEW0k5XnUGYFE3b/view?usp=sharing)
 
 
 ## Features
@@ -24,7 +24,7 @@ Video of live demo on project when not hosted:[Live-Demo]()
 - Apply logic at backend side so that multiple entry with same Indenfication Number is not allowed.
 - Enchance CRUD operations.
 - To manually take the data when image is not clearly upload and insert this entry in database.
-- Host the backend part. 
+- Host the project. 
 
 ## Tech Stack
 
